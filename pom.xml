@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.amazonaws</groupId>
+    <artifactId>aws-java-sdk-cognitoidp</artifactId>
+    <version>1.12.118</version>
+</dependency>
