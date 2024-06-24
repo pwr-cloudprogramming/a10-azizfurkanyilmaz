@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe game",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "dependencies": {
+    "amazon-cognito-identity-js": "^6.3.12",
+    "aws-sdk": "^2.1646.0",
+    "axios": "^1.7.2",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.2",
+    "jsonwebtoken": "^9.0.2",
+    "jwk-to-pem": "^2.0.5",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
