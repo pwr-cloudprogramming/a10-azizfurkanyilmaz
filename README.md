@@ -1,5 +1,5 @@
 AWS Cognito, TicTacToe report
-
+Name: Aziz Furkan YILMAZ
 Course: Cloud Programming
 Group: 
 Date: 
